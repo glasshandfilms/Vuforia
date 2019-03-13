@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ElJimadorDOTD" size="0.254000 0.513398" />
+    <ImageTarget name="100801_UK_DOTD_Bottle_Blanco" size="0.059721 0.120711" />
+  </Tracking>
+</QCARConfig>
